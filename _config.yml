@@ -1,5 +1,5 @@
 title: Super Skypper
-logo: /assets/img/skypper-logo.png
+#logo: /assets/img/skypper-logo.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
